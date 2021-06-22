@@ -1,0 +1,12 @@
+[book]
+authors = ["王佳腾"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "Coal"
+additional-js = ["js/custom.js"]
+
+[output.html.search]
+enable = false
