@@ -8,7 +8,7 @@
 熟练掌握Go语言开发,熟练掌握gin/gorm/go-kit等常用第三方包的使用
 了解常用数据结构和算法
 了解tcp/ip协议以及网络编程
-了解linux环境下开发,shell/perl/lua/makefile脚本编写
+了解linux环境下开发,shell/lua/makefile脚本编写
 了解mysql/redis/mongodb/kafka/es/mqtt/influxdb/ceph等常用系统组件的使用
 了解docker/compose的使用
 了解nginx/kong/treafik的使用
