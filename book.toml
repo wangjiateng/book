@@ -5,7 +5,7 @@ multilingual = false
 src = "src"
 
 [output.html]
-default-theme = "Coal"
+default-theme = "Rust"
 additional-js = ["js/custom.js"]
 
 [output.html.search]
